@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="upf.team.facebook.crawler">
+    <module_version install_time="1560273709032" last="true" origin="installer" specification_version="1.0.0">
+        <file crc="2471326342" name="config/Modules/upf-team-facebook-crawler.xml"/>
+        <file crc="2951600616" name="modules/ext/upf.team.facebook-crawler/com-google-code-findbugs/jsr305.jar"/>
+        <file crc="19399784" name="modules/ext/upf.team.facebook-crawler/com-google-code-gson/gson.jar"/>
+        <file crc="3661973777" name="modules/ext/upf.team.facebook-crawler/com-google-errorprone/error_prone_annotations.jar"/>
+        <file crc="3279890993" name="modules/ext/upf.team.facebook-crawler/com-google-guava/guava.jar"/>
+        <file crc="3332531509" name="modules/ext/upf.team.facebook-crawler/com-google-j2objc/j2objc-annotations.jar"/>
+        <file crc="1487795355" name="modules/ext/upf.team.facebook-crawler/commons-codec/commons-codec.jar"/>
+        <file crc="908197187" name="modules/ext/upf.team.facebook-crawler/commons-logging/commons-logging.jar"/>
+        <file crc="2799087594" name="modules/ext/upf.team.facebook-crawler/net-bytebuddy/byte-buddy.jar"/>
+        <file crc="2882388001" name="modules/ext/upf.team.facebook-crawler/net-java-dev-jna/jna-platform.jar"/>
+        <file crc="243529231" name="modules/ext/upf.team.facebook-crawler/net-java-dev-jna/jna.jar"/>
+        <file crc="2829847060" name="modules/ext/upf.team.facebook-crawler/org-apache-commons/commons-exec.jar"/>
+        <file crc="2944052681" name="modules/ext/upf.team.facebook-crawler/org-apache-httpcomponents/httpclient.jar"/>
+        <file crc="2335420510" name="modules/ext/upf.team.facebook-crawler/org-apache-httpcomponents/httpcore.jar"/>
+        <file crc="3155375578" name="modules/ext/upf.team.facebook-crawler/org-codehaus-mojo/animal-sniffer-annotations.jar"/>
+        <file crc="2274573946" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-api.jar"/>
+        <file crc="3084470125" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-chrome-driver.jar"/>
+        <file crc="4095936536" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-edge-driver.jar"/>
+        <file crc="1433016405" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-firefox-driver.jar"/>
+        <file crc="4186273256" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-ie-driver.jar"/>
+        <file crc="372655313" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-java.jar"/>
+        <file crc="553764851" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-opera-driver.jar"/>
+        <file crc="2400023563" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-remote-driver.jar"/>
+        <file crc="470519630" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-safari-driver.jar"/>
+        <file crc="2659739643" name="modules/ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-support.jar"/>
+        <file crc="2625820027" name="modules/upf-team-facebook-crawler.jar"/>
+        <file crc="2955261573" name="update_tracking/upf-team-facebook-crawler.xml"/>
+    </module_version>
+</module>

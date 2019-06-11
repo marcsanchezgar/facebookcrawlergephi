@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Facebook Crawler
+OpenIDE-Module-Short-Description: jbdsakfjksdkjf
+OpenIDE-Module-Long-Description: odflkdflkd
+OpenIDE-Module-Display-Category: Layout
+OpenIDE-Module-Specification-Version: 1.0.0
+OpenIDE-Module-Implementation-Version: 1.0.0
+OpenIDE-Module-Build-Version: 201906111721
+OpenIDE-Module: upf.team.facebook.crawler
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+X-Class-Path: ext/upf.team.facebook-crawler/org-seleniumhq-selenium/se
+ lenium-java.jar ext/upf.team.facebook-crawler/org-seleniumhq-selenium
+ /selenium-api.jar ext/upf.team.facebook-crawler/org-seleniumhq-seleni
+ um/selenium-chrome-driver.jar ext/upf.team.facebook-crawler/org-selen
+ iumhq-selenium/selenium-edge-driver.jar ext/upf.team.facebook-crawler
+ /org-seleniumhq-selenium/selenium-firefox-driver.jar ext/upf.team.fac
+ ebook-crawler/org-seleniumhq-selenium/selenium-ie-driver.jar ext/upf.
+ team.facebook-crawler/org-seleniumhq-selenium/selenium-opera-driver.j
+ ar ext/upf.team.facebook-crawler/org-seleniumhq-selenium/selenium-rem
+ ote-driver.jar ext/upf.team.facebook-crawler/org-seleniumhq-selenium/
+ selenium-safari-driver.jar ext/upf.team.facebook-crawler/org-selenium
+ hq-selenium/selenium-support.jar ext/upf.team.facebook-crawler/net-by
+ tebuddy/byte-buddy.jar ext/upf.team.facebook-crawler/org-apache-commo
+ ns/commons-exec.jar ext/upf.team.facebook-crawler/commons-codec/commo
+ ns-codec.jar ext/upf.team.facebook-crawler/commons-logging/commons-lo
+ gging.jar ext/upf.team.facebook-crawler/com-google-code-gson/gson.jar
+  ext/upf.team.facebook-crawler/com-google-guava/guava.jar ext/upf.tea
+ m.facebook-crawler/com-google-code-findbugs/jsr305.jar ext/upf.team.f
+ acebook-crawler/com-google-errorprone/error_prone_annotations.jar ext
+ /upf.team.facebook-crawler/com-google-j2objc/j2objc-annotations.jar e
+ xt/upf.team.facebook-crawler/org-codehaus-mojo/animal-sniffer-annotat
+ ions.jar ext/upf.team.facebook-crawler/org-apache-httpcomponents/http
+ client.jar ext/upf.team.facebook-crawler/org-apache-httpcomponents/ht
+ tpcore.jar ext/upf.team.facebook-crawler/net-java-dev-jna/jna.jar ext
+ /upf.team.facebook-crawler/net-java-dev-jna/jna-platform.jar
+Maven-Class-Path: org.seleniumhq.selenium:selenium-java:3.6.0 org.sele
+ niumhq.selenium:selenium-api:3.6.0 org.seleniumhq.selenium:selenium-c
+ hrome-driver:3.6.0 org.seleniumhq.selenium:selenium-edge-driver:3.6.0
+  org.seleniumhq.selenium:selenium-firefox-driver:3.6.0 org.seleniumhq
+ .selenium:selenium-ie-driver:3.6.0 org.seleniumhq.selenium:selenium-o
+ pera-driver:3.6.0 org.seleniumhq.selenium:selenium-remote-driver:3.6.
+ 0 org.seleniumhq.selenium:selenium-safari-driver:3.6.0 org.seleniumhq
+ .selenium:selenium-support:3.6.0 net.bytebuddy:byte-buddy:1.7.5 org.a
+ pache.commons:commons-exec:1.3 commons-codec:commons-codec:1.10 commo
+ ns-logging:commons-logging:1.2 com.google.code.gson:gson:2.8.0 com.go
+ ogle.guava:guava:23.0 com.google.code.findbugs:jsr305:1.3.9 com.googl
+ e.errorprone:error_prone_annotations:2.0.18 com.google.j2objc:j2objc-
+ annotations:1.1 org.codehaus.mojo:animal-sniffer-annotations:1.14 org
+ .apache.httpcomponents:httpclient:4.5.3 org.apache.httpcomponents:htt
+ pcore:4.4.6 net.java.dev.jna:jna:4.1.0 net.java.dev.jna:jna-platform:
+ 4.1.0
+
