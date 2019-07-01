@@ -10,7 +10,7 @@ import org.openqa.selenium.WebElement;
  import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.interactions.internal.Coordinates;
-import org.openqa.selenium.internal.Locatable;
+import org.openqa.selenium.interactions.internal.Locatable;
 import java.util.*;
 import java.util.Arrays;
 import java.util.List;
@@ -24,7 +24,7 @@ public class fbCrawler {
     public fbCrawler(){
     }
     public List<String> loginandCrawl(String email,String password){
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Marc\\Downloads\\facebookcrawlergephi-master\\FacebookCrawler\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\u137679\\Desktop\\chromedriver.exe");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--disable-notifications");
         options.addArguments("--disable-infobars");
@@ -62,7 +62,8 @@ public class fbCrawler {
             while (found <= 80){
                 Thread.sleep(500);
                 //scroll to the last friend found from the current loaded friend list
-                Coordinates coordinate = ((Locatable) frineds.get(found-1)).getCoordinates();
+                Coordinates coordinate = null;
+                coordinate= ((Locatable) frineds.get(found-1)).getCoordinates();      
                 coordinate.onPage();
                 coordinate.inViewPort();
                 Thread.sleep(500);
